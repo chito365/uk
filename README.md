@@ -1,186 +1,168 @@
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/brennanbrown/purelog">
-    <img src="/assets/profile.png" alt="Logo" width="120" height="120">
-  </a>
+# Hydeout
 
-  <h3 align="center">Purelog Theme for Jekyll</h3>
+Hydeout updates the original [Hyde](https://github.com/poole/hyde)
+theme for [Jekyll](http://jekyllrb.com) 3.x and 4.x and adds new functionality.
 
-  <p align="center">
-    A responsive, well-designed template to help you get started on your next blog or website.
-    <br />
-    <a href="https://github.com/brennanbrown/purelog"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <strong><a href="https://purelog.netlify.app">View Demo</a></strong>
-    ·
-    <a href="https://github.com/brennanbrown/purelog/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/brennanbrown/purelog/issues">Request Feature</a>
-  </p>
-</p>
+![Desktop](/_screenshots/1.png?raw=true)
+<img alt="Mobile home page" src="/_screenshots/2.png?raw=true" width="300px" />
+<img alt="Mobile post page" src="/_screenshots/3.png?raw=true" width="300px" />
 
-<!-- BADGES -->
-<p align="center">
-<a href="https://app.netlify.com/sites/purelog/deploys"><img src="https://api.netlify.com/api/v1/badges/062e333f-9e9d-440d-9b40-16d11959793d/deploy-status" alt="Netlify Status"></a>
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/brennanbrown/purelog">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/brennanbrown/purelog">
-<a href="https://github.com/brennanbrown/purelog/search?l=html"><img alt="GitHub top language" src="https://img.shields.io/github/languages/top/brennanbrown/purelog"></a>
-<a href="https://github.com/brennanbrown/purelog/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/brennanbrown/purelog"></a>
-<a href="https://github.com/brennanbrown/purelog/commits/main"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brennanbrown/purelog"></a>
-<a href="https://github.com/brennanbrown/purelog/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/brennanbrown/purelog"></a>
-<a href="https://purelog.netlify.app"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline%21&label=Status&up_color=darkgreen&up_message=Online%21&url=https%3A%2F%2Fpurelog.netlify.app"></a>
-<br />
-<a href="https://github.com/brennanbrown?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/brennanbrown?label=Follow%20Me%21&style=social"></a>
-<a href="https://github.com/brennanbrown/purelog/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/brennanbrown/purelog?label=Watch%21&style=social"></a>
-<a href="https://github.com/brennanbrown/purelog/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/brennanbrown/purelog?label=Star%21&style=social"> </a>
-<a href="https://github.com/brennanbrown/purelog/network/members"><img alt="GitHub forks"src="https://img.shields.io/github/forks/brennanbrown/purelog?label=Fork%21&style=social"></a>
-</p>
+### Usage
 
-<!-- ABOUT THE PROJECT -->
+Hydeout is available as the `jekyll-theme-hydeout` Ruby Gem.
+Add `gem "jekyll-theme-hydeout", "~> 4.1"` to your Gemfile and run
+`bundle install`.
 
-## About The Project
+If you're installing on Github pages, you may also have to add
+`remote_theme: fongandrew/hydeout` to your `_config.yml`. [See the Github
+instructions for more details.](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/)
 
-**Purelog** is a responsive, sidebar theme for the popular JAMstack generator Jekyll that only uses the minimal [**Pure.css** framework](https://github.com/pure-css/pure) (hence the name!), while still following the best practices possible for accessibility and search-engine optimization.
-
-I created this after finishing [Watery](https://github.com/brennanbrown/watery) (which this theme is built off of), as a way to add more functionality and design while still remaining as lightweight as possible.
-
-This project is aimed towards those looking for an interesting theme for Jekyll that has features that aren't found commonly elsewhere, specifically having separate sections dedicated towards: blogging, note-taking, and daily journal entries.
-
-![Purelog Screen Shot](https://i.postimg.cc/NfxJvZgx/purelog2.png)
-
-### Features
-
-Here are a few interesting features of this Jekyll theme:
-
-- A fully customizable and empty `_BLANK_config.yml` to make getting up-and-running easy.
-- A speedy, on-site search function using [Simply Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search).
-- Custom collections for different types of material (note-taking, journal writing, etc.)
-- An auto-generating archive page that displays all entries from _all_ collections.
-- Auto-generating tags and categories pages.
-- Having a `_pages` collection for easier organization.
-- An author bio at the end of each post. (Located in `_inclues/author.html`)
-- Full Rouge support for syntax highlighting. (Currently using `base16.solarized.light`)
-- Auto-generated RSS feed, sitemap, accessibility features, and search-engine optimization.
-
-## Installation
-
-### Prerequisites
-
-Jekyll requires the following:
-
-- Ruby version **2.5.0** or higher
-- RubyGems
-- GCC and Make
-
-See [Requirements](https://jekyllrb.com/docs/installation/#requirements) for guides and details.
-
-### Instructions
-
-1. Install all [prerequisites](https://jekyllrb.com/docs/installation/).
-2. Install the jekyll and bundler [gems](https://jekyllrb.com/docs/ruby-101/#gems).
+Hydeout uses pagination, so if you have an `index.md`, you'll need to swap
+it with an `index.html` that uses the `index` layout:
 
 ```
-gem install jekyll bundler
+---
+layout: index
+title: Home
+---
 ```
 
-3. Clone this repository.
+You'll also need to add a setting to `_config.yml` telling Jekyll how many posts
+to include per page (e.g. `paginate: 5`).
 
+### Keep It Simple
+
+In keeping with the original Hyde theme, Hydeout aims to keep the overall
+design lightweight and plugin-free. JavaScript is currently limited only
+to Disqus and Google Analytics (and is only loaded if you provide configuration
+variables).
+
+Hydeout makes heavy use of Flexbox in its CSS. If Flexbox is not available,
+the CSS degrades into a single column layout.
+
+### Customization
+
+Hydeout replaces Hyde's class-based theming with the use
+of the following SASS variables:
+
+```scss
+$sidebar-bg-color: #202020 !default;
+$sidebar-fg-color: white !default;
+$sidebar-sticky: true !default;
+$layout-reverse: false !default;
+$link-color: #268bd2 !default;
 ```
-git clone https://github.com/brennanbrown/purelog.git
+
+To override these variables, create your own `assets/css/main.scss` file.
+Define your own variables, then import in Hydeout's SCSS, like so:
+
+```scss
+---
+# Jekyll needs front matter for SCSS files
+---
+
+$sidebar-bg-color: #ac4142;
+$link-color: #ac4142;
+$sidebar-sticky: false;
+@import "hydeout";
 ```
 
-4. Change into your new directory.
+See the [_variables](_sass/hydeout/_variables.scss) file for other variables
+you can override.
 
-```
-cd purelog
-```
+You can see the full set of partials you can replace in the
+[`_includes`](_includes) folder, but there are a few worth noting:
 
-5. Install gems from the `Gemfile`.
+* `_includes/copyright.html` - Insert your own copyright here.
 
-```
-bundle install
-```
+* `_includes/custom-head.html` - Insert custom head tags (e.g. to load your
+  own stylesheets)
 
-6. Build the site and make it available on a local server.
+* `_includes/custom-foot.html` - Insert custom elements at the end of the
+  body (e.g. for custom JS)
 
-```
-bundle exec jekyll serve
-```
+* `_includes/custom-nav-links.html` - Additional nav links to insert at the
+  end of the list of links in the sidebar.
 
-7. Browse to [http://localhost:4000](http://localhost:4000)
+  Pro-tip: The `nav`s in the sidebar are flexboxes. Use the `order` property
+  to order your links.
 
-If you encounter any errors during this process, check that you have installed all the prerequisites in [Requirements](https://jekyllrb.com/docs/installation/#requirements).
+* `_includes/custom-icon-links.html`- Additional icon links to insert at the
+  end of the icon links at the bottom of the sidebar. You can use the `order`
+  property to re-order.
 
-If you still have issues, see [Troubleshooting](https://jekyllrb.com/docs/troubleshooting/#configuration-problems).
+* `_includes/favicons.html` - Replace references to `favicon.ico` and
+  `favicon.png` with your own favicons references.
 
-## Getting Started
+* `_includes/font-includes.html` - The Abril Fatface font used for the site
+  title is loaded here. If you're overriding that font in the CSS, be sure
+  to also remove the font load reference here.
 
-Once you have Jekyll up-and-running, there are only a few steps needed to make this theme your own:
+### New Features
 
-1. Fill out the `_BLANK_config.yml` configuration file and replace the current `_config.yml`
-2. Remove the `example_posts` folder in `_posts`, `_notes`, `_journals` and start writing your own!
-3. Modify or remove the pages in `_pages` to however you see fit.
-4. _(Optional)_ Modify or remove this `README.md` with information about your own project or blog.
-5. _(Optional)_ Modify the CSS files in the `assets` folder to customize the site.
+* Hydeout adds a new tags page (accessible in the sidebar). Just create a
+  new page with the tags layout:
 
-<!-- ROADMAP -->
+  ```
+  ---
+  layout: tags
+  title: Tags
+  ---
+  ```
 
-## Roadmap
+* Hydeout adds a new "category" layout for dedicated category pages.
+  Category pages are automatically added to the sidebar. All other pages
+  must have `sidebar_link: true` in their front matter to show up in
+  the sidebar. To create a category page, use the `category` layout"
 
-There are several features that I'm still planning to create and integrate, including:
+  ```
+  ---
+  layout: category
+  title: My Category
+  ---
 
-- Create a [Theme Gem](https://jekyllrb.com/docs/themes/#publishing-your-theme)
-- Add easy and automatic buttons to ["Deploy to Netlify"](https://docs.netlify.com/site-deploys/create-deploys/#deploy-to-netlify-button), Heroku, etc.
-- Add Travis continious integration checks
-- Add additional documentation for creating custom collections and auto generated pages
-- Add more example posts and articles
+  Description of "My Category"
+  ```
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+* You can control how pages are sorted by using the `sidebar_sort_order`
+  parameter in the front matter. This works for both category and non-category
+  pages, although non-category pages will always come first. Take a look at
+  [`_includes/sidebar-nav-links.html`](./_includes/sidebar-nav-links.html) if
+  you want to customize this behavior.
 
-<!-- CONTRIBUTING -->
+  ```
+  ---
+  layout: page
+  title: My page
+  sidebar_sort_order: 123
+  ---
 
-## Contributing
+  Some content.
+  ```
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+* A simple redirect-to-Google search is available. Just create a page with
+  the `search` layout.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+  ```
+  ---
+  layout: search
+  title: Google Search
+  ---
+  ```
 
-<!-- LICENSE -->
+* Disqus integration is ready out of the box. Just add the following to
+  your config file:
 
-## License
+  ```yaml
+  disqus:
+    shortname: my-disqus-shortname
+  ```
 
-Distributed under the MIT License. You can use this project however you see fit without needing to give attribution.
+  If you don't want Disqus or want to use something else, override
+  `comments.html`.
 
-See `LICENSE` for more information.
+* For Google Analytics support, define a `google_analytics` variable with
+  your property ID in your config file.
 
-## Resources
-
-While creating this theme, I came across a lot of helpful and hard-to-find resources. If you'd like to dive deeper into Jekyll, check them out:
-
-- Jumping Into Jekyll: <https://dev.to/brennan/jumping-into-jekyll-4o9h>
-- Jekyll Cheatsheet: <https://devhints.io/jekyll>
-- Course on Jekyll: <https://learn-the-web.algonquindesign.ca/topics/jekyll/>
-- Jekyll for Designers: <http://simpleprimate.com/jekyll-for-designers/index.html>
-- Dynamic Copyright on Jekyll: <https://michaelsoolee.com/jekyll-copyright/>
-- Creating breadcrumbs in Jekyll: <https://jekyllcodex.org/without-plugin/breadcrumbs/>
-- Display all items from ALL collections: <https://stackoverflow.com/questions/31171041/listing-all-collections-in-jekyll>
-
-### Other Resources
-
-- For markdown previews: <https://jaspervdj.be/lorem-markdownum/>
-- Case Study on webfont performance: <https://www.keycdn.com/blog/web-font-performance>
-- An extensive `.gitignore`: <https://miguelmota.com/bytes/extensive-gitignore/>
-
-## Credit
-
-[**Pure.css**](https://purecss.io/) was created by the [Pure CSS](https://github.com/pure-css) group.
-
-[**Simple Jekyll Search**](https://github.com/christian-fei/Simple-Jekyll-Search) was created by [Christian Fei](https://github.com/christian-fei).
-
-Various notes and ideas were taken from [**Simply Jekyll**](https://github.com/raghuveerdotnet/simply-jekyll) by [Raghuveer S.](https://github.com/raghuveerdotnet).
+There's also a bunch of minor tweaks and adjustments throughout the
+theme. Hope this works for you!
