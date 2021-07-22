@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            UkData
 tagline:          'Marriage stories and wealth status database'
-description:      'Marriages, wealth status and stories for fantasy.'
+description:      'Marriage stories and wealth status database for fantasy.'
 url:              https://ukdataservers.com
 # baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
