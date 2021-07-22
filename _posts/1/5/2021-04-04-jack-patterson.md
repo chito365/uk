@@ -34,7 +34,7 @@ He and the rest of the group, except for his brother Luke, met while studying at
                   
                   
                   
-He and Clean Bandit released their debut studio album New Eyes in May of 2014 with the album peaking at #3 on the UK albums chart.
+He and Clean Bandit released their debut studio album New Eyes in May of 2014 with the album peaking at number 3 on the UK albums chart.
                   
                 
                 

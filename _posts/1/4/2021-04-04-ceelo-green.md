@@ -16,7 +16,7 @@ permalink: /04/04/ceelo-green/
                   
                   
                   
-He gained fame with Gnarls Barkley, whose hit song &#8220;Crazy&#8221; was voted the best song of the 2000s by Rolling Stone Magazine. His song &#8220;Forget You&#8221; rose to #2 on the U.S. Billboards in 2010 and he is also known for being a judge on the NBC talent show The Voice.
+He gained fame with Gnarls Barkley, whose hit song &#8220;Crazy&#8221; was voted the best song of the 2000s by Rolling Stone Magazine. His song &#8220;Forget You&#8221; rose to number 2 on the U.S. Billboards in 2010 and he is also known for being a judge on the NBC talent show The Voice.
                   
                 
                 

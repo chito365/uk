@@ -16,7 +16,7 @@ permalink: /04/04/laura-story/
                   
                   
                   
-Christian singer-songwriter whose song Blessings made her one of the only female Christian artists to reach #1 on the Billboard Christian Songs chart. The song won the Grammy for Best Contemporary Christian Music Song in 2012. 
+Christian singer-songwriter whose song Blessings made her one of the only female Christian artists to reach number 1 on the Billboard Christian Songs chart. The song won the Grammy for Best Contemporary Christian Music Song in 2012. 
                   
                 
                 
@@ -34,7 +34,7 @@ She first became the bassist for the band Silers Bald in 1996.
                   
                   
                   
-Her album Blessings also peaked at #3 on the Billboard Folk Charts.
+Her album Blessings also peaked at number 3 on the Billboard Folk Charts.
                   
                 
                 

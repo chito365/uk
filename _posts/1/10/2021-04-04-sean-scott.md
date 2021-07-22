@@ -34,7 +34,7 @@ His band released their self-titled EP in in December 2014.
                   
                   
                   
-He and Creeper played their first headline show at the Joiners Arms in 2015. Their album Eternity, in Your Arms debuted at #18 on the UK Albums Chart.
+He and Creeper played their first headline show at the Joiners Arms in 2015. Their album Eternity, in Your Arms debuted at number 18 on the UK Albums Chart.
                   
                 
                 

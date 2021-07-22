@@ -34,7 +34,7 @@ He is an original member of the group, coming together with the five other origi
                   
                   
                   
-I See Stars enjoyed success with their third album Digital Renegade and their fourth album New Demons as they both reached the Billboard top 200, peaking at #39 and #28, respectively.
+I See Stars enjoyed success with their third album Digital Renegade and their fourth album New Demons as they both reached the Billboard top 200, peaking at number 39 and number 28, respectively.
                   
                 
                 

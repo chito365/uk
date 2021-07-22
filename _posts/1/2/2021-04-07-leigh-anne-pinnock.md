@@ -32,7 +32,7 @@ permalink: /2021/04/07/leigh-anne-pinnock/
 
 
 
-  She helped her group Little Mix release two #1 singles on the UK charts with &#8220;Cannonball&#8221; and &#8220;Wings.&#8221;
+  She helped her group Little Mix release two number 1 singles on the UK charts with &#8220;Cannonball&#8221; and &#8220;Wings.&#8221;
 
                 
                 

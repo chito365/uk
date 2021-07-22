@@ -34,7 +34,7 @@ He formed AWS in 2006, when he was still a teenager. 
                   
                   
                   
-His band&#8217;s single &#8220;Viszlát Nyár&#8221; peaked at #1 on the Hungarian singles chart in 2017.
+His band&#8217;s single &#8220;Viszlát Nyár&#8221; peaked at number 1 on the Hungarian singles chart in 2017.
                   
                 
                 

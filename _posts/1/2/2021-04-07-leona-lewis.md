@@ -32,7 +32,7 @@ permalink: /2021/04/07/leona-lewis/
 
 
 
-  Her single &#8220;Bleeding Love&#8221; reached #1 in over thirty countries around the world.
+  Her single &#8220;Bleeding Love&#8221; reached number 1 in over thirty countries around the world.
 
                 
                 

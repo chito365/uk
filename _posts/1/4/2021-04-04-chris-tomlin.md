@@ -16,7 +16,7 @@ permalink: /04/04/chris-tomlin/
                   
                   
                   
-Contemporary Christian recording artist who has released three #1 Christian albums. He is known for hits like &#8220;How Great Is Our God&#8221; and &#8220;Our God.&#8221;
+Contemporary Christian recording artist who has released three number 1 Christian albums. He is known for hits like &#8220;How Great Is Our God&#8221; and &#8220;Our God.&#8221;
                   
                 
                 

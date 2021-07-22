@@ -16,7 +16,7 @@ permalink: /04/04/gavin-rossdale/
                   
                   
                   
-Singer-songwriter who co-founded the alternative rock band Bush, the group known for songs like &#8220;Glycerine&#8221; and &#8220;Swallowed,&#8221; the latter of which charted at #7 in the U.K.
+Singer-songwriter who co-founded the alternative rock band Bush, the group known for songs like &#8220;Glycerine&#8221; and &#8220;Swallowed,&#8221; the latter of which charted at number 7 in the U.K.
                   
                 
                 

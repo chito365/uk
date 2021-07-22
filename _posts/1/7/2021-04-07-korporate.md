@@ -16,7 +16,7 @@ permalink: /04/07/korporate/
 
 
 
-YouTube comedian who became a sensation with his popular #BlackChicagoBeLike videos, which take a humorous look at the lives of African-Americans in Chicago, Illinois. The videos on his Korporate Bidness channel have been viewed more than 266 million times. 
+YouTube comedian who became a sensation with his popular number BlackChicagoBeLike videos, which take a humorous look at the lives of African-Americans in Chicago, Illinois. The videos on his Korporate Bidness channel have been viewed more than 266 million times. 
 
                 
                 
@@ -34,7 +34,7 @@ He grew up in Chicago. 
 
 
 
-The 44th part of his #ChicagoBeLIkeSeries was his first to surpass 2 million views. 
+The 44th part of his number ChicagoBeLIkeSeries was his first to surpass 2 million views. 
 
                 
                 
@@ -52,7 +52,7 @@ His real name is Donovan Price, Jr. He has three daughters.
 
 
 
-He has featured Reggie Baybee in several of his #BlackChicagoBeLike videos. 
+He has featured Reggie Baybee in several of his number BlackChicagoBeLike videos. 
 
                 
               

@@ -16,7 +16,7 @@ permalink: /04/04/chris-brown/
                   
                   
                   
-Born Christopher Maurice Brown, his debut self-titled album went double-Platinum and his single &#8220;Run It!&#8221; reached #1 on the U.S. charts in 2004.  
+Born Christopher Maurice Brown, his debut self-titled album went double-Platinum and his single &#8220;Run It!&#8221; reached number 1 on the U.S. charts in 2004.  
                   
                 
                 
@@ -34,7 +34,7 @@ He grew up in an abusive household, where he listened to Michael Jackson and Ste
                   
                   
                   
-His 2011 album F.A.M.E. sold 270,000 copies the week of its release, and hit #1 on the U.S. Billboard. 
+His 2011 album F.A.M.E. sold 270,000 copies the week of its release, and hit number 1 on the U.S. Billboard. 
                   
                 
                 

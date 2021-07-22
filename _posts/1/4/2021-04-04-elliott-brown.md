@@ -25,7 +25,7 @@ Football player and social media personality who is widely recognized for his fr
                   
                   
                   
-Throughout his youth he played football wearing the #14 jersey.
+Throughout his youth he played football wearing the number 14 jersey.
                   
                 
                 

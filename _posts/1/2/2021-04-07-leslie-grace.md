@@ -16,7 +16,7 @@ permalink: /2021/04/07/leslie-grace/
 
 
 
-  Latin Grammy Award-nominated artist whose self-titled 2013 album rose to #4 on the Billboard Latin Albums chart. The album was nominated for a Latin Grammy for Best Contemporary Tropical Album. 
+  Latin Grammy Award-nominated artist whose self-titled 2013 album rose to number 4 on the Billboard Latin Albums chart. The album was nominated for a Latin Grammy for Best Contemporary Tropical Album. 
 
                 
                 

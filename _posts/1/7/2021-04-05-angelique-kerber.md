@@ -16,7 +16,7 @@ permalink: /04/05/angelique-kerber/
                   
                   
                   
-German tennis star who won both the Australian Open and the U.S. Open in 2016. She earned her first world #1 ranking in September 2016.
+German tennis star who won both the Australian Open and the U.S. Open in 2016. She earned her first world number 1 ranking in September 2016.
                   
                 
                 

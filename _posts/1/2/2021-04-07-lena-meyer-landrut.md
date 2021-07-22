@@ -16,7 +16,7 @@ permalink: /2021/04/07/lena-meyer-landrut/
 
 
 
-  Germany&#8217;s entrant in the 2010 Eurovision Song Contest who won with her song &#8220;Satellite.&#8221; Her debut album, My Cassette Player, was a #1 hit.
+  Germany&#8217;s entrant in the 2010 Eurovision Song Contest who won with her song &#8220;Satellite.&#8221; Her debut album, My Cassette Player, was a number 1 hit.
 
                 
                 

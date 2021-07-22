@@ -34,7 +34,7 @@ As of 2015, he has been playing guitar for more than 10 years. He had initially 
                   
                   
                   
-He appeared on Season 3 of The X Factor, finishing in 3rd place as a Restless Road member. In December 2013, their cover of the song, &#8220;Wake Me Up&#8221;, reached #1 on the iTunes country music charts.
+He appeared on Season 3 of The X Factor, finishing in 3rd place as a Restless Road member. In December 2013, their cover of the song, &#8220;Wake Me Up&#8221;, reached number 1 on the iTunes country music charts.
                   
                 
                 

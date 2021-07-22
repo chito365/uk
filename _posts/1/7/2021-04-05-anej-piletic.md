@@ -16,7 +16,7 @@ permalink: /04/05/anej-piletic/
                   
                   
                   
-One half of the Slovene musical duo BQL. The pair released the #1 Slovenian single &#8220;Heart of Gold&#8221; in 2017. 
+One half of the Slovene musical duo BQL. The pair released the number 1 Slovenian single &#8220;Heart of Gold&#8221; in 2017. 
                   
                 
                 
@@ -34,7 +34,7 @@ BQL released their debut single, &#8220;Ko sama bos,&#8221; in 2015. 
                   
                   
                   
-In 2016, BQL released the single &#8220;Muza,&#8221; which was their first song to hit #1 in Slovenia. 
+In 2016, BQL released the single &#8220;Muza,&#8221; which was their first song to hit number 1 in Slovenia. 
                   
                 
                 

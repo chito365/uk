@@ -13,7 +13,7 @@ permalink: /jordan-north/
 
 ## Who is Jordan North
 
-Cheerleader and gymnast known for her tumbling videos on the app TikTok where she is known as jojo_n_2. She has accrued more than 700,000 fans. Her fan base is known as #flipfam.
+Cheerleader and gymnast known for her tumbling videos on the app TikTok where she is known as jojo_n_2. She has accrued more than 700,000 fans. Her fan base is known as number flipfam.
 
 ## Prior to Popularity
 

@@ -16,7 +16,7 @@ permalink: /04/04/lesley-visser/
                   
                   
                   
-Voted the #1 Female Sportscaster of all-time by the American Sportscasters Association, she made history by being the first female NFL analyst on television.
+Voted the number 1 Female Sportscaster of all-time by the American Sportscasters Association, she made history by being the first female NFL analyst on television.
                   
                 
                 

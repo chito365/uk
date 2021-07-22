@@ -34,7 +34,7 @@ When she was fourteen, she changed her name to Vicki Vale and ran away from home
                   
                   
                   
-Her debut album, Crystal Castles, was listed as #39 on the New Musical Express list of the greatest 100 albums of the decade.
+Her debut album, Crystal Castles, was listed as number 39 on the New Musical Express list of the greatest 100 albums of the decade.
                   
                 
                 

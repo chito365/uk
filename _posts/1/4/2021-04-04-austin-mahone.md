@@ -34,7 +34,7 @@ He and his friend Alex Constancio began posting YouTube videos in June 2010; how
                   
                   
                   
-His first single, &#8220;11:11,&#8221; climbed to #19 on the Billboard Heatseekers Songs chart, and was followed by his second single, &#8220;Say Somethin,&#8221; which hit #34 on the Billboard Pop Songs chart.   
+His first single, &#8220;11:11,&#8221; climbed to number 19 on the Billboard Heatseekers Songs chart, and was followed by his second single, &#8220;Say Somethin,&#8221; which hit number 34 on the Billboard Pop Songs chart.   
                   
                 
                 

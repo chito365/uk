@@ -16,7 +16,7 @@ permalink: /04/05/ana-ivanovic/
                   
                   
                   
-Former professional tennis player who was ranked #1 in the world in 2008. She won the 2008 French Open and also reached the Australian Open Finals that year.
+Former professional tennis player who was ranked number 1 in the world in 2008. She won the 2008 French Open and also reached the Australian Open Finals that year.
                   
                 
                 

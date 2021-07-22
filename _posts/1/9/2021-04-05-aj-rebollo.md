@@ -16,7 +16,7 @@ permalink: /04/05/aj-rebollo/
                   
                   
                   
-Guitarist for the metalcore band Issues whose self-titled debut album peaked at #9 on the Billboard Top 200, coming in at #2 on the US Alternative Chart and #1 on both the US Hard Rock and US Indie charts.
+Guitarist for the metalcore band Issues whose self-titled debut album peaked at number 9 on the Billboard Top 200, coming in at number 2 on the US Alternative Chart and number 1 on both the US Hard Rock and US Indie charts.
                   
                 
                 

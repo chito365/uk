@@ -21,7 +21,7 @@ His first TikTok video was an animation of Juice WRLD. 
 
 ## Random data
 
-He launched a YouTube channel on October 31, 2017, with a video titled &#8220;Day edit at Deltona Skate park #1.&#8221; 
+He launched a YouTube channel on October 31, 2017, with a video titled &#8220;Day edit at Deltona Skate park number 1.&#8221; 
 
 ## Family & Everyday Life of Josh Krumich
 

@@ -34,7 +34,7 @@ She and the rest of the group, except for Luke, met while studying at Jesus Coll
                   
                   
                   
-She and Clean Bandit released their debut studio album New Eyes in May of 2014 with the album peaking at #3 on the UK albums chart.
+She and Clean Bandit released their debut studio album New Eyes in May of 2014 with the album peaking at number 3 on the UK albums chart.
                   
                 
                 

@@ -16,7 +16,7 @@ permalink: /2021/04/07/lesley-gore/
 
 
 
-  Pop singer who soared to #1 with her Grammy Award-nominated song &#8220;It&#8217;s My Party&#8221; in 1963.
+  Pop singer who soared to number 1 with her Grammy Award-nominated song &#8220;It&#8217;s My Party&#8221; in 1963.
 
                 
                 

@@ -34,7 +34,7 @@ He worked as a part-time barista prior to joining the band. He also played guita
                   
                   
                   
-In 2007, he and Framing Hanley released their debut album, The Moment. In May 2010, they released their sophomore album, A Promise to Burn. It debuted at #57 on the Billboard 200 chart. In 2014, the band released their third album, The Sum of Who We Are.
+In 2007, he and Framing Hanley released their debut album, The Moment. In May 2010, they released their sophomore album, A Promise to Burn. It debuted at number 57 on the Billboard 200 chart. In 2014, the band released their third album, The Sum of Who We Are.
                   
                 
                 

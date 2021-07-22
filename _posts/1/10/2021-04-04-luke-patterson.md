@@ -16,7 +16,7 @@ permalink: /04/04/luke-patterson/
                   
                   
                   
-Musician and member of the British electronic group Clean Bandit. Their debut studio album, New Eyes, peaked at #3 on the UK albums chart.
+Musician and member of the British electronic group Clean Bandit. Their debut studio album, New Eyes, peaked at number 3 on the UK albums chart.
                   
                 
                 

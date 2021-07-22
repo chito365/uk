@@ -34,7 +34,7 @@ He first rose to prominence at the age of six singing with the family group The
                   
                   
                   
-His 1982 album Thriller became the best-selling album in history, winning thirteen Grammy Awards and having thirteen songs reach #1 on the U.S. charts. He&#8217;s recognized as the Most Successful Entertainer of All-Time by the Guinness Book of World Records. 
+His 1982 album Thriller became the best-selling album in history, winning thirteen Grammy Awards and having thirteen songs reach number 1 on the U.S. charts. He&#8217;s recognized as the Most Successful Entertainer of All-Time by the Guinness Book of World Records. 
                   
                 
                 

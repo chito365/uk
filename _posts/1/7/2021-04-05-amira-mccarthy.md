@@ -16,7 +16,7 @@ permalink: /04/05/amira-mccarthy/
                   
                   
                   
-Member of the four-piece girl group Neon Jungle whose debut album, Welcome to the Jungle, charted at #8 on the UK Album chart and #48 on the Australian chart.
+Member of the four-piece girl group Neon Jungle whose debut album, Welcome to the Jungle, charted at number 8 on the UK Album chart and number 48 on the Australian chart.
                   
                 
                 

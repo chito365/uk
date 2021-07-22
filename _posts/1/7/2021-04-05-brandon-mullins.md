@@ -16,7 +16,7 @@ permalink: /04/05/brandon-mullins/
                   
                   
                   
-Former member of the hardcore punk band Beartooth whose studio album called Disgusting peaked at #48 on the US Album chart.
+Former member of the hardcore punk band Beartooth whose studio album called Disgusting peaked at number 48 on the US Album chart.
                   
                 
                 

@@ -50,7 +50,7 @@ module Jekyll
       tag_title_prefix = site.config['tag_title_prefix'] || 'Tagged: '
       tag_title_suffix = site.config['tag_title_suffix'] || '&#8211;'
       self.data['title'] = "#{tag_title_prefix}#{tag}"
-      self.data['description'] = "An archive of posts tagged #{tag}."
+      self.data['description'] = "An archive of posts tagged number {tag}."
     end
   end
 end
@@ -106,10 +106,10 @@ Indentation matters. Be sure the indent of the code block aligns with the first 
 
    ```ruby
    def print_hi(name)
-     puts "Hi, #{name}"
+     puts "Hi, number {name}"
    end
    print_hi('Tom')
-   #=> prints 'Hi, Tom' to STDOUT.
+   number => prints 'Hi, Tom' to STDOUT.
    ```
 
 3. Now you can do this.

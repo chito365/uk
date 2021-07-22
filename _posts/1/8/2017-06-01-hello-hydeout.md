@@ -24,11 +24,11 @@ Hydeout replaces Hyde's class-based theming with the use
 of the following SASS variables:
 
 ```scss
-$sidebar-bg-color: #202020 !default;
+$sidebar-bg-color: number 202020 !default;
 $sidebar-fg-color: white !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
-$link-color: #268bd2 !default;
+$link-color: number 268bd2 !default;
 ```
 
 To override these variables, create your own `assets/css/main.scss` file.
@@ -39,8 +39,8 @@ Define your own variables, then import in Hydeout's SCSS, like so:
 # Jekyll needs front matter for SCSS files
 ---
 
-$sidebar-bg-color: #ac4142;
-$link-color: #ac4142;
+$sidebar-bg-color: number ac4142;
+$link-color: number ac4142;
 $sidebar-sticky: false;
 @import "hydeout";
 ```

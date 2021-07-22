@@ -34,7 +34,7 @@ She got her start acting in musicals like Hello, Dolly! and Jesus Christ Superst
                   
                   
                   
-Her single &#8220;Meant To Be,&#8221; which features Florida Georgia Line, held down the #1 spot on the Billboard Hot Country Songs chart for 50 straight weeks, setting a record for the longest streak ever by a song with a female lead artist.<br /> She wrote the Eminem and Rihanna song &#8220;The Monster,&#8221; which was certified 6x-platinum by the RIAA. 
+Her single &#8220;Meant To Be,&#8221; which features Florida Georgia Line, held down the number 1 spot on the Billboard Hot Country Songs chart for 50 straight weeks, setting a record for the longest streak ever by a song with a female lead artist.<br /> She wrote the Eminem and Rihanna song &#8220;The Monster,&#8221; which was certified 6x-platinum by the RIAA. 
                   
                 
                 

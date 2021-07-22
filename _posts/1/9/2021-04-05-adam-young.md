@@ -16,7 +16,7 @@ permalink: /04/05/adam-young/
                   
                   
                   
-Singer and songwriter best known for his electronic project Owl City, whose independently released debut album reached #15 on the U.S. Dance chart. The artist&#8217;s music has been featured in several films, including Wreck-It Ralph and Legend of the Guardians: The Owls of Ga&#8217;Hoole.
+Singer and songwriter best known for his electronic project Owl City, whose independently released debut album reached number 15 on the U.S. Dance chart. The artist&#8217;s music has been featured in several films, including Wreck-It Ralph and Legend of the Guardians: The Owls of Ga&#8217;Hoole.
                   
                 
                 
@@ -34,7 +34,7 @@ Suffering from insomnia, he began making music in his parents&#8217; basement an
                   
                   
                   
-His hit single, &#8220;Fireflies,&#8221; sold 650,000 copies in its first week and reached #1 on the Billboard Hot 100.
+His hit single, &#8220;Fireflies,&#8221; sold 650,000 copies in its first week and reached number 1 on the Billboard Hot 100.
                   
                 
                 

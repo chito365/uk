@@ -34,7 +34,7 @@ He began touring with bandmates Todd Harrel and Matt Roberts at the age of eight
                   
                   
                   
-He helped to release two #1 albums: Seventeen Days in 2005 and 3 Doors Down in 2008.
+He helped to release two number 1 albums: Seventeen Days in 2005 and 3 Doors Down in 2008.
                   
                 
                 

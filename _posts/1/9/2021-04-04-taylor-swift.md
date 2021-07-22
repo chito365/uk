@@ -16,7 +16,7 @@ permalink: /04/04/taylor-swift/
                   
                   
                   
-Singer and songwriter who at the age of 18 became the youngest solo artist to write and record a #1 hit on the U.S. Hot Country Songs chart with the single &#8220;Our Song.&#8221; She released her fourth country album, Red, in 2012 and her first pop album, 1989, came out in 2014. In 2017, her sixth album, Reputation, sold over a million copies in four days. 
+Singer and songwriter who at the age of 18 became the youngest solo artist to write and record a number 1 hit on the U.S. Hot Country Songs chart with the single &#8220;Our Song.&#8221; She released her fourth country album, Red, in 2012 and her first pop album, 1989, came out in 2014. In 2017, her sixth album, Reputation, sold over a million copies in four days. 
                   
                 
                 
