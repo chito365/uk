@@ -12,6 +12,7 @@ layout: default
     {{ content }}
     {% include post-tags.html post=page %}
   </div>
+  {% include disqus.html %}
 
   {% include comments.html %}
   {% include related_posts.html %}
