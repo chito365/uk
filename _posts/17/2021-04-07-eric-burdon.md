@@ -1,0 +1,62 @@
+---
+id: 19133
+title: Eric Burdon
+date: 2021-04-07T22:37:09+00:00
+author: victor
+layout: post
+guid: /eric-burdon/
+permalink: /eric-burdon/
+---
+
+
+{: toc}
+
+
+## Who is Eric Burdon
+
+
+
+Lead singer of The Animals on The House of the Rising Sun who also worked with the funk band War.
+
+                
+                
+                
+## Prior to Popularity
+
+
+
+The bands name changed from the Alan Price Combo to the Animals after Burdons arrival.
+
+                
+                
+                
+## Random data
+
+
+
+He is considered one of The 100 Greatest Singers of All Time by Rolling Stone.
+
+                
+                
+                
+## Family & Everyday Life of Eric Burdon
+
+
+
+He married Angie King on September 7, 1967; after their divorce in 1969, he remarried Rose Marks on September 17, 1972.
+
+                
+                
+                
+## People Related With Eric Burdon
+
+
+
+He is a famous funk rock musician much like Mitch Mitchell.
+
+                
+              
+            
+          
+          
+          

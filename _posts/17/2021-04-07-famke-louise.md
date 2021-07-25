@@ -1,0 +1,62 @@
+---
+id: 16669
+title: Famke Louise
+date: 2021-04-07T18:36:58+00:00
+author: victor
+layout: post
+guid: /famke-louise/
+permalink: /famke-louise/
+---
+
+
+{: toc}
+
+
+## Who is Famke Louise
+
+
+
+Beauty and fashion guru whose self-titled channel consists of vlogs, challenges and tutorials. She has managed to earn more than 350,000 subscribers.
+
+                
+                
+                
+## Prior to Popularity
+
+
+
+She launched her FamkeLouise channel in February of 2016, uploading her first video, Heeeeyyyy (Intro vlog) &#8211; FamkeLouise number 1, at that time.
+
+                
+                
+                
+## Random data
+
+
+
+One of her most popular videos is a beauty tutorial on Alissa Violets makeup look, which has accumulated nearly 150,000 views.
+
+                
+                
+                
+## Family & Everyday Life of Famke Louise
+
+
+
+A large number of her YouTube videos featured her then-boyfriend Snapking. She has a younger brother.
+
+                
+                
+                
+## People Related With Famke Louise
+
+
+
+She has featured Ronnie Flex in her YouTube videos. 
+
+                
+              
+            
+          
+          
+          
